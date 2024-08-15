@@ -3,15 +3,14 @@ Based on the details from the project, I used and downloaded several tools and t
 
 the key technologies and libraries used in your project:
 
-Python: 3.10.x
-PyTorch: 2.0.1
-Torchvision: 0.15.2
-YOLOv5: Custom model for object detection
-Flask: Web framework for serving the application
-OpenCV: Computer vision library
-Playsound: For playing sound notifications (if applicable)
-Installation
-Prerequisites
+Python: 3.10.x,
+PyTorch: 2.0.1,
+Torchvision: 0.15.2,
+YOLOv5: Custom model for object detection,
+Flask: Web framework for serving the application,
+OpenCV: Computer vision library,
+Playsound: For playing sound notifications (if applicable),
+
 Ensure you have Python 3.10.x installed on your system.
 (Optional) Set up a virtual environment.
 
